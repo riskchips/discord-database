@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "formdata-node": "^6.0.3",
+    "path": "^0.12.7"
+  }
+}

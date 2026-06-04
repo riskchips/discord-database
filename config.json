@@ -1,0 +1,11 @@
+{
+  "discord": {
+    "bot": {
+      "token": "add ur discord token",
+      "id": "add your discord bot id"
+    }
+  },
+  "database": {
+    "guild_id": "add your discord databse guild/server id"
+  }
+}
